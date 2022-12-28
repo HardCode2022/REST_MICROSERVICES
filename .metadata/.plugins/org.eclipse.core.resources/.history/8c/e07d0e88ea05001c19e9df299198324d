@@ -1,0 +1,9 @@
+package user.entité.copy;
+
+public class user {
+
+	public user() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

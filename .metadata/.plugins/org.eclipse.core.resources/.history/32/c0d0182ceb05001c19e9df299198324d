@@ -1,0 +1,9 @@
+package user;
+
+public class userController {
+
+	public userController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

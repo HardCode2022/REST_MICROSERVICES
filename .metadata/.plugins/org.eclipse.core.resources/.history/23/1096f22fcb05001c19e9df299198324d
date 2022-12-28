@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package controller;
+
+import javax.sound.midi.Patch;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author Ordinateur
+ *
+ */
+@RestController
+public class Helloword {
+
+	
+	@GetMapping(path="/hello-Word")
+	public String HelloWord(){
+		return "Bonjour tout le monde";
+	}
+}

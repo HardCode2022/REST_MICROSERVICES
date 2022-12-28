@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package controller;
+
+/**
+ * @author Ordinateur
+ *
+ */
+public class HelloWordBean {
+
+	private String message ;
+	
+	public HelloWordBean(String message) {
+		this.message=message;
+		
+		
+	}
+
+}

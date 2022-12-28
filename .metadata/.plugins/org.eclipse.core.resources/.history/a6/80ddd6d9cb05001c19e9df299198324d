@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author Ordinateur
+ *
+ */
+@RestController
+public class Helloword {
+
+	
+	@GetMapping(path="/hello-Word")
+	public String helloWord(){
+		return "Bonjour tout le monde";
+	}
+	
+	@GetMapping(path="/hello-Word")
+	public HelloWordBean helloWordBean(){
+		return new HelloWordBean("Bonjour tout le monde");
+	}
+	
+}

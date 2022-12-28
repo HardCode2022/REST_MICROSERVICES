@@ -1,0 +1,35 @@
+/**
+ * 
+ */
+package controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+import constructeur.HelloWordBean;
+
+/**
+ * @author Ordinateur
+ *
+ */
+@RestController
+public class HellowordController {
+
+	
+	@GetMapping("/hello-world")
+	public String helloWord(){
+		return "Bonjour tout le monde";
+	}
+	
+	@GetMapping("/hello-world-Bean")
+	public HelloWordBean helloWordBean(){
+		return new HelloWordBean("Bonjour tout le monde Bean");
+	}
+	
+	@GetMapping("/hello-world-Bean/variable/{name}")
+	public HelloWordBean helloWordBeanParameters(@PathVariable String message ){
+		return new HelloWordBean( String.format(" Bonjour tout monde %s", message));
+	}
+	
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1639479321843_1" label="REST_FULL_SERVICE" name="REST_FULL_SERVICE">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/netflix-eureka-naming-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/limits-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-config-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RestFull-web-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/currency-exchange-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/netflix-zuul-api-gateway-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Formation_restful-web-services" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/currency-conversion-service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1639567857958_3" label="ANGULAR_JAVA_FULL" name="ANGULAR_JAVA_FULL">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Angular_Restful-web-services" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629895429902_0" label="Window Working Set" name="Aggregate for window 1629895429902"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1639651162750_5" label="Multiple Working Sets" name="Aggregate:ANGULAR_JAVA_FULL:REST_FULL_SERVICE:">
+<workingSet IMemento.internal.id="ANGULAR_JAVA_FULL"/>
+<workingSet IMemento.internal.id="REST_FULL_SERVICE"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1649823232943_4" label="Window Working Set" name="Aggregate for window 1649823232943"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1650272737828_5" label="Window Working Set" name="Aggregate for window 1650272737828"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1651690391236_6" label="Window Working Set" name="Aggregate for window 1651690391236"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1652203667243_7" label="Window Working Set" name="Aggregate for window 1652203667243"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1652992189888_8" label="Window Working Set" name="Aggregate for window 1652992189888"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653133718489_9" label="Window Working Set" name="Aggregate for window 1653133718489"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653147663628_10" label="Window Working Set" name="Aggregate for window 1653147663628"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653168637283_11" label="Window Working Set" name="Aggregate for window 1653168637283"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653326552047_12" label="Window Working Set" name="Aggregate for window 1653326552047"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653329395324_13" label="Window Working Set" name="Aggregate for window 1653329395324"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653564332686_14" label="Window Working Set" name="Aggregate for window 1653564332686"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653564874030_15" label="Window Working Set" name="Aggregate for window 1653564874030"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1653575178805_16" label="Window Working Set" name="Aggregate for window 1653575178805"/>
+<mruList name="REST_FULL_SERVICE"/>
+</workingSetManager>
